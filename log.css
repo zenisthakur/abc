@@ -1,0 +1,61 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+background-color: yellow;
+
+}
+#top{
+border: 5px solid black ;
+background-color: white;
+
+
+}
+
+#log{
+background-color: white;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;transform: translate(-50%,-50%);
+    border-radius: 20px;
+    
+}
+#sing{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;transform: translate(-50%,-50%);
+}
+#buu{
+color: antiquewhite;
+background-color: black;
+border-radius: 4px;
+width: 200px;
+margin-bottom: 100px;
+}
+#buu1{
+
+    color: antiquewhite;
+background-color: black;
+border-radius: 4px;
+}
+#aa{
+margin-bottom: 100px;
+margin-left: 50px;
+text-transform: capitalize;
+
+}
+#links{
+text-decoration: none;
+margin-left: 63px; 
+color: black;
+
+}
+#mar{
+margin-bottom: 50px;
+margin-left: 20px;
+
+
+}
